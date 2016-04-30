@@ -34,7 +34,7 @@ public class InGameSummonerQuerierTest {
             actualGameKey = querier.queryGameKey(summonerName);
         }
 
-        final String expectedGameKey = "4/bl4DC8HBir8w7bGHq6hvuHluBd+3xM";
+        final String expectedGameKey = "7y8yF3WT8psXZHdAqrJR1MT12SkgZUFi";
         THEN: {
             assertThat(actualGameKey, is(expectedGameKey));
         }
