@@ -26,7 +26,7 @@ public class InGameSummonerQuerierTest {
         final String summonerName;
 
         GIVEN: {
-            summonerName = "ewoo";
+            summonerName = "aranizm";
         }
 
         final String actualGameKey;
